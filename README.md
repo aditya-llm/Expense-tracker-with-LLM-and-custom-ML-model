@@ -2,7 +2,7 @@
 
 This project combines the power of **Large Language Models (LLMs)** and a **custom Machine Learning text classifier** to automatically categorize expenses from plain text sentences.  
 
---
+---
 
 ## 🚀 What it Involves
 1. **Collecting a dataset** of expense-related sentences.  
