@@ -10,10 +10,9 @@ This project combines the power of **Large Language Models (LLMs)** and a **cust
    - *"₹2000 rent transfer"* → `Rent`  
 2. **Labeling the dataset** with predefined categories (e.g., `Subscriptions`, `Rent`, `Groceries`, `EMI`, etc.).  
 3. **Training a text classification model**  
-   - Options:  
-     - Fine-tune **BERT / DistilBERT**  
+   - Options: 
      - Use a **lightweight LLM** for local inference  
-     - Train a **custom ML pipeline** with Scikit-learn / spaCy  
+     - Train a **custom ML pipeline** with Scikit-learn / spaCy 
 4. **Deploying the model** for fast and cheap categorization of new expenses.
 
 ---
@@ -22,7 +21,7 @@ This project combines the power of **Large Language Models (LLMs)** and a **cust
 - 🔹 **Fully Customizable** → Works with your own categories  
 - 🔹 **Adaptable** → Learns your unique spending patterns  
 - 🔹 **Local & Cheap** → Once trained, it runs offline without extra costs  
-- 🔹 **Hybrid Approach** → Dictionary lookup + ML model + LLM fallback  
+- 🔹 **Hybrid Approach** → ML model + LLM fallback  
 
 ---
 
