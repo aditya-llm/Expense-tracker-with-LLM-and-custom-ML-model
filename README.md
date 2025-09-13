@@ -41,3 +41,16 @@ This project combines the power of **Large Language Models (LLMs)** and a **cust
 Input  : "Paid ₹1200 for groceries at Big Bazaar"
 Process: → Text Preprocessing → Model Inference  
 Output : Category = "Groceries"
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img width="1907" height="911" alt="image" src="https://github.com/user-attachments/assets/57dd1289-2997-4c0c-b5bb-186aeb7f5b0e"/></td>
+    <td><img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/59b9c66b-d85b-4a3c-b9f9-9abc6950ab9b" /></td>
+    <td><img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/7b42f634-81b0-459e-94a5-802dba181ed9" /></td>
+  </tr>
+</table>
+
