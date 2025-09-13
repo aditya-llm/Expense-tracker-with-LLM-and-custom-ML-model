@@ -51,6 +51,9 @@ Output : Category = "Groceries"
     <td><img width="1907" height="911" alt="image" src="https://github.com/user-attachments/assets/57dd1289-2997-4c0c-b5bb-186aeb7f5b0e"/></td>
     <td><img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/59b9c66b-d85b-4a3c-b9f9-9abc6950ab9b" /></td>
     <td><img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/7b42f634-81b0-459e-94a5-802dba181ed9" /></td>
+   <td><img src="screenshots/summary.png" alt="Summary" width="300"/></td>
+<img width="1907" height="911" alt="image" src="https://github.com/user-attachments/assets/16d1b2f5-5b50-4cb8-bef1-c5c824c28491" />
+
   </tr>
 </table>
 
