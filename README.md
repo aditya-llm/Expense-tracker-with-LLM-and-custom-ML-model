@@ -43,7 +43,7 @@ Process: → Text Preprocessing → Model Inference
 Output : Category = "Groceries"
 ```
 ---
-
+## 🚀 Deployed on Streamlit
 ## 📸 Screenshots
 
 <table>
